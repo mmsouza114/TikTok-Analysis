@@ -1,2 +1,37 @@
-# TikTok-Analysis-WholeBrainHealth
-Client project to analyze client's tictok data and provide possible solutions to increase view counts and traffic.
+# TikTok Analysis for Client Project
+### This was part of a client project for COOP. I was tasked with analyzing the data from client's TikTok channel.
+
+A non-profit organization that combines behavioral change principles with the neuroscience pertaining to brain optimization. They use interactive live classes with mind stimulating activities and brain games to boost brain power, while utilizing social platforms like YouTube and TikTok.
+<br>
+<br>
+> ## Objective
+> To analyze client's TicTok data and provide possible solutions to increase view counts and drive in traffic.
+<br>
+
+## PROCESS
+1.	Define objective
+2.	Gather data
+3.	Explore data
+4.	Clean data
+5.	Analyze data
+6.	Share results
+7.	Summary
+<br>
+
+## Technologies
+* Excel
+* Sql/Mysql
+* Python
+* Jupyter Notebook
+* Pandas
+* Tableau
+
+# Project Analysis Overview
+I was provided with a limited amount of data given their fairly new presence on the TikTok platform. I will be working with the following data fields:
+* Date
+* Comments
+* Likes
+* Profile views
+* Shares
+* Video views
+
