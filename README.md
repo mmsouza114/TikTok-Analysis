@@ -18,7 +18,7 @@ A non-profit organization that combines behavioral change principles with the ne
 7.	Summary
 <br>
 
-## Technologies
+## TECHNOLOGIES
 * Excel
 * Sql/Mysql
 * Python
@@ -28,10 +28,7 @@ A non-profit organization that combines behavioral change principles with the ne
 
 # Project Analysis Overview
 I was provided with a limited amount of data given their fairly new presence on the TikTok platform. I will be working with the following data fields:
-* Date
-* Comments
-* Likes
-* Profile views
-* Shares
-* Video views
+
+<img width="1173" alt="Screen Shot 2022-12-14 at 3 46 00 PM" src="https://user-images.githubusercontent.com/114799503/207739423-454d8b95-6bad-4799-84f6-2328a347098f.png">
+
 
