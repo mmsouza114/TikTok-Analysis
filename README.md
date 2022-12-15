@@ -31,5 +31,12 @@ I was provided with a limited amount of data given their fairly new presence on 
 
 <img width="1173" alt="Screen Shot 2022-12-14 at 3 48 49 PM" src="https://user-images.githubusercontent.com/114799503/207739736-86673587-f66c-4f65-bc9c-d0324f5b4e7b.png">
 
+## Between Sept. 14th - Nov. 12th, 2022
+
+There was a total of 887 video views on TikTok. Out of the ~60 days of data, only 17 days recieved video views. 
+
+<img width="1370" alt="Screen Shot 2022-12-14 at 6 51 53 PM" src="https://user-images.githubusercontent.com/114799503/207761190-44c99c26-88b2-4c9a-ab49-1822f1b282ee.png">
+
+
 
 
