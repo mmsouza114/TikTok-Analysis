@@ -29,6 +29,7 @@ A non-profit organization that combines behavioral change principles with the ne
 # Project Analysis Overview
 I was provided with a limited amount of data given their fairly new presence on the TikTok platform. I will be working with the following data fields:
 
-<img width="1173" alt="Screen Shot 2022-12-14 at 3 46 00 PM" src="https://user-images.githubusercontent.com/114799503/207739423-454d8b95-6bad-4799-84f6-2328a347098f.png">
+<img width="1173" alt="Screen Shot 2022-12-14 at 3 48 49 PM" src="https://user-images.githubusercontent.com/114799503/207739736-86673587-f66c-4f65-bc9c-d0324f5b4e7b.png">
+
 
 
