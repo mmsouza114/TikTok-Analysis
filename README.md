@@ -81,6 +81,7 @@ I was curious about the large amount of views the client recieved on 11/11 and 1
 * Use popular hashtags on video postings
 * Make the thumbnail photos aesthetically appealing to entice viewers to click on videos
 * Include Call-to-Action in your posts
+* Lastly, experiment with videos
 
 
 <br>
