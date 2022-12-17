@@ -30,11 +30,13 @@ A non-profit organization that combines behavioral change principles with the ne
 I was provided with a limited amount of data given their fairly new presence on the TikTok platform. I will be working with the following data fields:
 
 <img width="1142" alt="Screen Shot 2022-12-14 at 3 48 49 PM" src="https://user-images.githubusercontent.com/114799503/207739736-86673587-f66c-4f65-bc9c-d0324f5b4e7b.png">
+<br>
 
 ## Between Sept. 14th - Nov. 12th, 2022
 
 <img width="1142" alt="Screen Shot 2022-12-15 at 4 55 44 PM" src="https://user-images.githubusercontent.com/114799503/207997721-8fd83a6f-955d-412b-ba99-6b3f5178639f.png">
 
+<br>
 
 Out of the 60 days of data, only 17 days recieved video views. 
 
@@ -54,4 +56,11 @@ Out of the 60 days of data, only 17 days recieved video views.
 
 <img width="1142" alt="visual1" src="https://user-images.githubusercontent.com/114799503/207999360-01e2a552-5122-46f3-bf29-a21ae3386ff1.png">
 <br>
+
+## Features with under 2 engagement interactactions
+Due to the client's relatively new presence on the TikTok platform, there was a limited amount of data to analyze.
+
+<img width="1142" alt="visual2" src="https://user-images.githubusercontent.com/114799503/208229817-17db64df-12c1-43e3-80c5-af8c6690692b.png">
+
+
 
