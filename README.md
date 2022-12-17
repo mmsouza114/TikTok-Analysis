@@ -27,7 +27,7 @@ A non-profit organization that combines behavioral change principles with the ne
 * Tableau
 
 # Project Analysis Overview
-I was provided with a limited amount of data given their fairly new presence on the TikTok platform. I will be working with the following data fields:
+I was provided with a limited amount of data due to TikTok's limited access to only the past 60 days of data. I will be working with the following data fields:
 
 <img width="1142" alt="Screen Shot 2022-12-14 at 3 48 49 PM" src="https://user-images.githubusercontent.com/114799503/207739736-86673587-f66c-4f65-bc9c-d0324f5b4e7b.png">
 <br>
@@ -38,7 +38,7 @@ I was provided with a limited amount of data given their fairly new presence on 
 
 <br>
 
-Out of the 60 days of data, only 17 days recieved video views. 
+Out of the 60 days of data provided, only 17 of those days recieved video views. 
 
 <img width="1142" alt="Screen Shot 2022-12-15 at 4 57 19 PM" src="https://user-images.githubusercontent.com/114799503/207997925-f4eebf05-fd2e-4c77-a15e-48d9d46441c8.png">
 <br>
@@ -58,9 +58,34 @@ Out of the 60 days of data, only 17 days recieved video views.
 <br>
 
 ## Features with under 2 engagement interactactions
-Due to the client's relatively new presence on the TikTok platform, there was a limited amount of data to analyze.
+Since TikTok analytics only allows access to the past 60 days of data, there was a limited amount of data to analyze during this period.
 
 <img width="1142" alt="visual2" src="https://user-images.githubusercontent.com/114799503/208229817-17db64df-12c1-43e3-80c5-af8c6690692b.png">
+<br>
+
+## Notes
+I was curious about the large amount of views the client recieved on 11/11 and 11/12 and after speaking with the client, turns out they decided to experiment with something new and dressed up in a costume for a holiday video. 
+
+# Insights
+#### Summary of key findings:
+* In the last 60 days there was a total of 887 video views
+* With A 28% video view rate within the 60 day time frame
+* Huge increase in engagement on 11/11/22 and 11/12/22
+* Profile views, shares and comments have little to no engagement
 
 
+# Recommendations
+##### To increase TikTok video views and drive in traffic:
+* Seek potential collaboration opportunities from channels that can drive traffic to videos
+* Posting videos of different kinds with different sounds to gauge what viewers like most
+* Use popular hashtags on video postings
+* Make the thumbnail photos aesthetically appealing to entice viewers to click on videos
+* Include Call-to-Action in your posts
+
+
+<br>
+<br>
+
+#### Resources
+* [TikTok - Understanding your Analytics](https://www.tiktok.com/creators/creator-portal/en-us/tiktok-content-strategy/understanding-your-analytics/)
 
